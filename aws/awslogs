@@ -1,0 +1,3 @@
+# https://github.com/jorgebastida/awslogs
+
+awslogs  get <log group name> ALL --watch

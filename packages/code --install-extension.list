@@ -1,0 +1,28 @@
+# Theme
+PKief.material-icon-theme
+azemoh.one-monokai
+#
+# Languages
+vscode-proto3
+Angular.ng-template
+dbaeumer.vscode-eslint
+fivethree.vscode-ionic-snippets
+idleberg.applescript
+joaompinto.asciidoctor-vscode
+johnpapa.Angular2
+JuanBlanco.solidity
+mike-lischke.vscode-antlr4
+mikestead.dotenv
+mitaki28.vscode-clang
+ms-python.python
+ms-vscode.cpptools
+pixelbyte-studios.pixelbyte-love2d
+trixnz.vscode-lua
+#
+# Extensions
+christian-kohler.path-intellisense
+EditorConfig.EditorConfig
+msjsdiag.debugger-for-chrome
+naumovs.color-highlight
+PeterJausovec.vscode-docker
+vincaslt.highlight-matching-tag
